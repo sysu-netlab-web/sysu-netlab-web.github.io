@@ -13,6 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-redirect-from'
+    gem 'jekyll-mermaid'
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
