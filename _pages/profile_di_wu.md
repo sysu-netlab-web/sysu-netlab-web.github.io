@@ -10,7 +10,7 @@ profile:
   image: profile/diwu.jpg
   address: "Sun Yat-sen University, Netlab <br>
             Building: NSCC-GZ, Office: 531 <br>
-            Email: wudi27 (at)mail.sysu.edu.cn <br>
+            Email: wudi27 (at)mail.sysu.edu.cn <br>"
 ---
 <p class="profile-buttons">
     <a class="btn z-depth-0" href="http://netlabsysu.org/dwu/">CV</a>
