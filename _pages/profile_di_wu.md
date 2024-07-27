@@ -5,7 +5,6 @@ first_name: Di
 last_name: Wu
 title: Di Wi
 subtitle: Ph.D.(CUHK), Professor, Associate Dean
-redirect_from: /~diwu/
 profile: 
   image: profile/diwu.jpg
   address: "Sun Yat-sen University, Netlab <br>
