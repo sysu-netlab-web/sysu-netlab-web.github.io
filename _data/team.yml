@@ -1,15 +1,13 @@
-"Principal Investigator":
-  - name: ["Dongsu", "Han"]
+"Professor":
+  - name: ["Di", "Wu"]
     subtitle: "Professor"
-    introduction: I am a professor at KAIST (Department of Electrical Engineering and
-      Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department
-      at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in
-      research are welcome to contact me at dongsu.han@gmail.com.
-    location: KAIST N1 814 (Daehak-ro 291, Yuseong-Gu, Daejeon, Republic of Korea 34141)
-    email: dongsu.han@gmail.com
-    photo: /assets/img/profile/dongsu-han.jpg
-    scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ
-    homepage: /team/dongsuh
+    introduction: I am a professor at School of Computer Science and Engineering,Sun Yat-sen University. I received a Ph.D. from CUHK. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in
+      research are welcome to contact me at wudi27@mail.sysu.edu.cn.
+    location: Sun Yat-sen University(Guangzhou 510006, China)
+    email: wudi27@mail.sysu.edu.cn
+    photo: /assets/img/profile/diwu.jpg
+    scholar: https://scholar.google.com/citations?user=guhA4VoAAAAJ
+    homepage: /team/diwu
 
 "Ph.D. Students":
   - name: ["Hwijoon", "Lim"]
