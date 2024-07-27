@@ -1,6 +1,7 @@
 ---
 layout: profile
 permalink: /team/diwu
+redirect_from: /~dongsuh/
 first_name: Di
 last_name: Wu
 title: Di Wi
