@@ -3,9 +3,7 @@ layout: about
 title: About
 permalink: /
 redirect_from: /new_home/
-subtitle: Welcome to <strong>I</strong>ntelligent <strong>N</strong>etwork <strong>A</strong>rchitecture Lab @ <a href='https://kaist.ac.kr'>KAIST</a>!
-
-
+subtitle: Welcome to <strong>NetLab</strong> @ <a href='https://www.sysu.edu.cn/'>SYSU</a>!
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -13,9 +11,10 @@ social: false  # includes social icons at the bottom of the page
 
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-12">
-        <a href="/assets/pdf/INA-poster-202305-web.pdf" target="_blank">
-            {% include figuren.html path="/assets/img/main/lab2_230421.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
-        </a>
+[//]: # (        <a href="/assets/pdf/INA-poster-202305-web.pdf" target="_blank">)
+        {% include figuren.html path="/assets/img/main/lab1.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
+
+[//]: # (        </a>)
         <div class="caption">
         </div>
     </div>

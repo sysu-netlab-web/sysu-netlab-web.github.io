@@ -159,9 +159,9 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path:            "assets/**/*.*"
+      path: "assets/**/*.*"
     values:
-      sitemap:         false
+      sitemap: false
 # Extras
 github: [metadata]
 
