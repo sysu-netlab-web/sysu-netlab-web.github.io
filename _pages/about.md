@@ -14,7 +14,6 @@ social: false  # includes social icons at the bottom of the page
 
         {% include figuren.html path="/assets/img/main/lab1.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
 
-
         <div class="caption">
         </div>
     </div>
