@@ -29,7 +29,7 @@ social: false  # includes social icons at the bottom of the page
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
     </div>
-    <h5 class="font-weight-bold mt-2">NetLab</h5>
+    <h2 class="font-weight-bold mt-2">NetLab</h2>
     <div id="content-zh">
         <p> INA研究组致力于互联网服务与应用、云基础设施以及支持人工智能的系统中的创新理念。我们识别并预见了因互联网/云服务的发展和新硬件的出现而带来的新问题，为现实世界中的挑战性问题提供了新颖的解决方案，并以实现实际影响的方式设计和实施这些解决方案。INA研究组是[电子工程学院](https://ee.kaist.ac.kr)的[计算机系](https://computer.kaist.ac.kr)的一部分。</p>
     
@@ -44,7 +44,7 @@ social: false  # includes social icons at the bottom of the page
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
     </div>
-    <h5 class="font-weight-bold mt-2">NetLab</h5>
+    <h2 class="font-weight-bold mt-2"><strong>NetLab</strong></h2>
     <div id="content-en">
         <p> INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr).</p>
 
