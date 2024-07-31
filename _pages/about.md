@@ -10,7 +10,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 <style>
     p {
-        text-indent: 0.5em;
         line-height: 1.6em;
     }
 </style>
@@ -25,6 +24,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 ## **NetLab**
+
 Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)! 
 
 <div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-zh">
