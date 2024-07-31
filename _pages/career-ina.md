@@ -58,7 +58,7 @@ nav: false
 
 <div class="mt-4 mb-4 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-en">
 <div style="position: absolute; top: 1.5em; right: 1.5em;">
-<a href="javascript:switchTo('zh')">🇰🇷</a>&nbsp;
+<a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;s
 <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
 </div>
 <h5 class="font-weight-bold mt-2">Graduate-level (Prospective or Current)</h5>
@@ -86,8 +86,8 @@ in-depth interactions with KAIST students.</p>
 </div>
 
 <script>
-    function isKorean() {
-        return (window.navigator.userLanguage || window.navigator.language || '').startsWith('ko');
+    function isChinese() {
+        return (window.navigator.userLanguage || window.navigator.language || '').startsWith('zh');
     }
     function switchTo(lang) {
         if (lang === 'zh') {
@@ -95,11 +95,11 @@ in-depth interactions with KAIST students.</p>
             window.document.getElementById('prof-word-en').style.display = 'none';
         } else {
             window.document.getElementById('prof-word-zh').style.display = 'block';
-            window.document.getElementById('prof-word-ko').style.display = 'none';
+            window.document.getElementById('prof-word-en').style.display = 'none';
         }
     }
 
-    if (isKorean()) {
+    if (isChinese()) {
         switchTo('zh');
     } else {
         switchTo('en');
