@@ -14,7 +14,6 @@ social: false  # includes social icons at the bottom of the page
     }
 </style>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-12">
         {% include figuren.html path="/assets/img/main/lab1.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
@@ -23,17 +22,16 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
-## **NetLab**
-
-Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)! 
-
-<div class="mt-1 mb-1 pt-4 pl-0 pr-0 pb-2" style="background:var(--global-bg-color); position: relative;" id="prof-word-zh">
+<div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-bg-color); position: relative;" id="prof-word-zh">
     <div style="position: absolute; top: 1.5em; right: 1.5em;">
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
     </div>
-    &nbsp;
+    <h2><strong>NetLab</strong></h2>
+    
     <div id="content-zh">
+        <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
+
         <p>INA研究组致力于互联网服务与应用、云基础设施以及支持人工智能的系统中的创新理念。我们识别并预见了因互联网/云服务的发展和新硬件的出现而带来的新问题，为现实世界中的挑战性问题提供了新颖的解决方案，并以实现实际影响的方式设计和实施这些解决方案。INA研究组是[电子工程学院](https://ee.kaist.ac.kr)的[计算机系](https://computer.kaist.ac.kr)的一部分。</p>
     
         <p>INA研究组提供一个自我激励的氛围，通过灵活的工作时间实现高效的研究。在博士项目中，我们的研究组提供必要的培训，使学生成为独立研究者，并成为特定领域的专家。我们还与国外研究人员进行积极交流，实验室的校友在毕业后拥有强大的网络，并在进入行业、研究实验室或学术界时获得许多机会。</p>
@@ -42,13 +40,15 @@ Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)!
     </div>
 </div>
 
-<div class="mt-1 mb-1 pt-2 pl-0 pr-0 pb-1" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-en">
+<div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-en">
     <div style="position: absolute; top: 1.5em; right: 1.5em;">
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
     </div>
     &nbsp;
     <div id="content-en">
+        <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
+    
         <p> INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr).</p>
 
         <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
