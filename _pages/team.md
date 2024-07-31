@@ -13,7 +13,6 @@ nav: true
       <div class="row">
         {% for member in position[1] %}
           {% if position[0] != "Alumni" %}
-
           <div class="col-12">
           <div class="card hoverable" id="{{member.name | join: '_' | downcase}}">
           {% else %}
