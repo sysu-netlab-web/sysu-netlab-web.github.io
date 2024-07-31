@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 ## **NetLab**
 <div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-bg-color); position: relative;" id="prof-word-zh">
-    <div style="position: absolute; top: 0.2em; right: 1.5em;">
+    <div style="position: absolute; top: 0.01em; right: 1.5em;">
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
     </div>
@@ -40,7 +40,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-bg-color); position: relative;" id="prof-word-en">
-    <div style="position: absolute; top: 0.2em; right: 1.5em;">
+    <div style="position: absolute; top: 0.01em; right: 1.5em;">
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
     </div>
