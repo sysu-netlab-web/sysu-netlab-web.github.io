@@ -7,7 +7,6 @@ nav: false
 ---
 <style>
     p {
-        text-indent: 0.5em;
         line-height: 1.6em;
     }
 
