@@ -32,7 +32,7 @@ Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)!
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
     </div>
-    <h2 class="font-weight-bold mt-2">NetLab</h2>
+    &nbsp;
     <div id="content-zh">
         <p>INA研究组致力于互联网服务与应用、云基础设施以及支持人工智能的系统中的创新理念。我们识别并预见了因互联网/云服务的发展和新硬件的出现而带来的新问题，为现实世界中的挑战性问题提供了新颖的解决方案，并以实现实际影响的方式设计和实施这些解决方案。INA研究组是[电子工程学院](https://ee.kaist.ac.kr)的[计算机系](https://computer.kaist.ac.kr)的一部分。</p>
     
@@ -53,7 +53,7 @@ Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)!
 
         <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
 
-        <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Join Us](/join-us) page.</p>
+        <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Join Us](/join-us) page.</p>
     </div>
 </div>
 
