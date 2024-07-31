@@ -22,13 +22,13 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
+## **NetLab**
 <div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-bg-color); position: relative;" id="prof-word-zh">
     <div style="position: absolute; top: 1.5em; right: 1.5em;">
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
     </div>
-    <h2><strong>NetLab</strong></h2>
-    
+
     <div id="content-zh">
         <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
 
@@ -45,10 +45,9 @@ social: false  # includes social icons at the bottom of the page
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
     </div>
-    &nbsp;
     <div id="content-en">
         <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
-    
+
         <p> INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr).</p>
 
         <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
