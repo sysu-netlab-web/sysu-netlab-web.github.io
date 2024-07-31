@@ -31,9 +31,9 @@ social: false  # includes social icons at the bottom of the page
     <div id="content-zh">
         <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
 
-        <p>INA研究组致力于互联网服务与应用、云基础设施以及支持人工智能的系统中的创新理念。我们识别并预见了因互联网/云服务的发展和新硬件的出现而带来的新问题，为现实世界中的挑战性问题提供了新颖的解决方案，并以实现实际影响的方式设计和实施这些解决方案。INA研究组是[电子工程学院](https://ee.kaist.ac.kr)的[计算机系](https://computer.kaist.ac.kr)的一部分。</p>
+        <p>NetLab课题组致力于互联网服务与应用、云基础设施以及支持人工智能的系统中的创新理念。我们识别并预见了因互联网/云服务的发展和新硬件的出现而带来的新问题，为现实世界中的挑战性问题提供了新颖的解决方案，并以实现实际影响的方式设计和实施这些解决方案。NetLab课题组是[电子工程学院](https://ee.kaist.ac.kr)的[计算机系](https://computer.kaist.ac.kr)的一部分。</p>
     
-        <p>INA研究组提供一个自我激励的氛围，通过灵活的工作时间实现高效的研究。在博士项目中，我们的研究组提供必要的培训，使学生成为独立研究者，并成为特定领域的专家。我们还与国外研究人员进行积极交流，实验室的校友在毕业后拥有强大的网络，并在进入行业、研究实验室或学术界时获得许多机会。</p>
+        <p>NetLab课题组提供一个自我激励的氛围，通过灵活的工作时间实现高效的研究。在博士项目中，我们的研究组提供必要的培训，使学生成为独立研究者，并成为特定领域的专家。我们还与国外研究人员进行积极交流，实验室的校友在毕业后拥有强大的网络，并在进入行业、研究实验室或学术界时获得许多机会。</p>
     
         <p>招聘：我们正在寻找研究生和本科研究实习生加入INA实验室（常年招聘）。我们有几个有趣的研究主题，如大规模深度学习、神经体积流和回顾性视频分析。您可以在<a href="/join-us">Join Us</a>页面找到更多信息。</p>
     </div>
@@ -47,9 +47,9 @@ social: false  # includes social icons at the bottom of the page
     <div id="content-en">
         <p>Welcome to <strong>NetLab</strong>@<a href="https://www.sysu.edu.cn/">SYSU</a>!</p>
 
-        <p> INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr).</p>
+        <p> NetLab pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. NetLab is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr).</p>
 
-        <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
+        <p> NetLab provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
 
         <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on the <a href="/join-us">Join Us</a> page.</p>
     </div>
@@ -80,8 +80,8 @@ social: false  # includes social icons at the bottom of the page
 &nbsp;
 ## **Research**
 
-INA has published 14 papers at top-tier systems conferences, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/index?comm&kr)).
-Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
+NetLab has published 14 papers at top-tier systems conferences, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/index?comm&kr)).
+Currently, NetLab Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@NetLab](/projects) and [Publication@NetLab](/publications).
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI and Cloud**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), ICML'24, SIGCOMM'24]
