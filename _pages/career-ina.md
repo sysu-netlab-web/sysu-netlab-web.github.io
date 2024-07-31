@@ -33,6 +33,7 @@ nav: false
 <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
 <a href="javascript:switchTo('en')">🇺🇸</a>
 </div>
+
 <h5 class="font-weight-bold mt-2">教授介绍</h5>
 <p>我是KAIST的毕业生，我有过独立研究和实验课程等各种经历。通过这些经历，我学到了许多有用的知识，并希望为学生们提供有益的环境和机会。如果您需要关于研究或其他方面的一般建议，请随时通过电子邮件与我联系 :-)</p>
 
@@ -61,6 +62,7 @@ nav: false
 <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
 <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
 </div>
+
 <h5 class="font-weight-bold mt-2">Graduate-level (Prospective or Current)</h5>
 <p>I am actively looking for graduate-level students.
 If you want to apply to KAIST or have applied to KAIST, I can meet with you to talk about our research interests. 
