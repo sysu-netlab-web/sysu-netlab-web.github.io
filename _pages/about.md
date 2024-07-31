@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)! 
 
-<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-zh">
+<div class="mt-4 mb-5 pt-4 pl-0 pr-0 pb-2" style="background:var(--global-bg-color); position: relative;" id="prof-word-zh">
     <div style="position: absolute; top: 1.5em; right: 1.5em;">
         <a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')">🇺🇸</a>
@@ -42,7 +42,7 @@ Welcome to **NetLab**[@SYSU](https://www.sysu.edu.cn/)!
     </div>
 </div>
 
-<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-en">
+<div class="mt-1 mb-1 pt-2 pl-0 pr-0 pb-1" style="background:var(--global-code-bg-color); position: relative;" id="prof-word-en">
     <div style="position: absolute; top: 1.5em; right: 1.5em;">
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
