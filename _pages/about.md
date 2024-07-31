@@ -9,6 +9,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+
+<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-zh">
+<div style="position: absolute; top: 1.5em; right: 1.5em;">
+<a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
+<a href="javascript:switchTo('en')">🇺🇸</a>
+</div>
+
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-12">
 

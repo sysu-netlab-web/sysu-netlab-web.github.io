@@ -94,8 +94,8 @@ in-depth interactions with KAIST students.</p>
             window.document.getElementById('prof-word-zh').style.display = 'block';
             window.document.getElementById('prof-word-en').style.display = 'none';
         } else {
-            window.document.getElementById('prof-word-zh').style.display = 'block';
-            window.document.getElementById('prof-word-en').style.display = 'none';
+            window.document.getElementById('prof-word-en').style.display = 'block';
+            window.document.getElementById('prof-word-zh').style.display = 'none';
         }
     }
 
