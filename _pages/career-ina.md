@@ -28,53 +28,37 @@ nav: false
 </style>
 
 
-<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-ko">
+<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-zh">
 <div style="position: absolute; top: 1.5em; right: 1.5em;">
-<a href="javascript:switchTo('ko')" style="opacity: 50%">🇰🇷</a>&nbsp;
+<a href="javascript:switchTo('zh')" style="opacity: 50%">🇨🇳</a>&nbsp;
 <a href="javascript:switchTo('en')">🇺🇸</a>
 </div>
-<h5 class="font-weight-bold mt-2">교수 소개</h5>
-<p>저는 KAIST 출신이고 여러분들이 하는 개별 연구, 실험 수업 등등 다 경험을 해보았습니다. 
-수업과 개별 연구를 통해 지금까지 도움이 되는 많은 것들을 배운 경험이 있기 때문에 학생들에게 도움이 되는 
-환경과 기회를 만들어주고 싶습니다. 연구나 그 외의 일반적인 조언이 필요하다면 언제든지 이메일로 연락 주시기 바랍니다 :-) </p>
+<h5 class="font-weight-bold mt-2">教授介绍</h5>
+<p>我是KAIST的毕业生，我有过独立研究和实验课程等各种经历。通过这些经历，我学到了许多有用的知识，并希望为学生们提供有益的环境和机会。如果您需要关于研究或其他方面的一般建议，请随时通过电子邮件与我联系 :-)</p>
 
+<h5 class="font-weight-bold mt-4">您的目标是什么？</h5>
+<p style="text-indent: 0">在进行独立研究、URP或攻读研究生之前，请明确您的目标。</p>
 
-<h5 class="font-weight-bold mt-4">당신의 Goal은 무엇입니까? </h5>
-<p style="text-indent: 0">개별연구, URP, 대학원 진학 하기전에 분명한 목표를 가지기 바랍니다.</p>
-
-
-<h5 class="font-weight-bold mt-4">석박사 과정</h5>
+<h5 class="font-weight-bold mt-4">硕士和博士课程</h5>
 <p>
-만약 KAIST 대학원 지원을 고민 중이거나 이미 지원한 경우, 연구 관심사에 대해 함께 의논해 볼 수 있으면 좋겠습니다.
-저는 학생들이 지도교수를 선택하기 전에 (저를 포함하여) 많은 교수님들과 대화하기를 추천합니다. 
-여러분이 가지고 있는 연구 관심사에 대해서 하고 싶은 이야기가 있다면 언제든지 이메일로 연락 주시기 바랍니다.
+如果您正在考虑申请KAIST研究生或已经申请了，可以与我会面讨论我们的研究兴趣。我建议学生在选择导师之前（包括我在内）与多位教授交谈。如果您想与我讨论您的研究兴趣，请随时通过电子邮件与我联系。
 </p>
 
+<h5 class="font-weight-bold mt-4">研究介绍</h5>
+<p>我们正在进行的各种研究中，有一些适合URP或独立研究学生的主题（参见下文）。这些主题中有些是与国内外研究生一起进行的，但由于尚未分配研究生，也可以与本科生一起开始。经过讨论后，可以选择适合自己的主题和希望学习的内容。我们还有许多其他的研究主题，学生们也可以提出自己想要研究的主题。</p>
 
-<h5 class="font-weight-bold mt-4">연구 소개</h5>
-<p>지금 진행하고 있는 여러가지 연구중에 URP 또는 개별 연구 학생이 할만한 주제를 뽑아봤습니다(하단 참조). 
-몇몇 주제들은 현재 국내외 대학원생들과 진행하고 있는 것이지만, 아직 대학원생들이 배정되지 않아서
-학부생들과 새로 시작해볼 수도 있는 주제도 있습니다. 상담 후 자신에 맞는 주제와 배우길 원하는 주제로 정하면 됩니다. 
-이 외에 항상 아이디어가 있기 때문에 더 많은 주제들도 있고, 학생들 스스로 하고 싶은 주제를 찾아오셔도 됩니다. </p>
+<h5 class="font-weight-bold mt-4">推荐课程</h5>
+<p>推荐课程包括EE209（编程结构）、CS230（系统编程）、EE205（数据结构）、EE323（计算机网络）、EE324（网络编程）、EE415（操作系统）。您需要先修EE209才能修其他课程，但如果您已经具备C编程基础，可以同时修EE209和CS230。建议在修完2-3门这些课程后进行独立研究（或URP）。</p>
 
-
-<h5 class="font-weight-bold mt-4">추천 과목</h5>
-<p>EE209 (프로그래밍 구조), CS230 (시스템 프로그래밍), EE205 (자료구조), EE323 (컴퓨터 네트워크), EE324 (네트워크 프로그래밍), EE415 (운영체제) 같은 강의를 들으면 도움이 됩니다. EE209를 먼저 수강해야 다른 강의를 들을 수 있지만, C 프로그래밍 기초가 있으면 EE209와 CS230을 동시에 수강할 수 있습니다. 이러한 강의를 2~3개 이수한 후 개별 연구 (또는 URP)를 하는 것을 추천합니다.</p>
-
-<h5 class="font-weight-bold mt-4">학부생 연구의 성공 기준</h5>
-<p> 개별 연구 및 URP의 성공 기준은 본인이 연구에 흥미를 느꼈느냐 못 느꼈느냐라고 생각합니다.
-따라서 성공/실패는 본인의 현재 능력과는 절대적인 상관 관계가 없고, 본인의 interest와 동기가 더 중요합니다. 
-하지만, 학부생들은 본인의 interest를 잘 모를 수 있기 때문에 (저도 그랬고), 그것을 찾아나가는데 도움을 주는 것 또한 
-개별연구의 목적입니다. 어떤 레벨에 있던지 본인에게 approachable한 task를 주는 것이 교육자의 역할이라고 생각합니다. 
-저희 실험실은 흥미로운 주제와 자신의 생각을 펼칠 수 있는 환경 그리고 교수와 선배들의 가이드를 제공해 줄 수 있고, 그럴 의무를 가지고 있습니다. 
-여러분이 이러한 권리를 잘 활용해서 학생으로서 최선을 다하시고  앞으로 나아가 연구자로서 어떤 skill이 필요한가를 배우시기 바랍니다. 
-</p>
+<h5 class="font-weight-bold mt-4">本科生研究成功的标准</h5>
+<p>独立研究和URP的成功标准在于您是否对研究产生了兴趣，因此成功与否与您的当前能力没有绝对关系，您的兴趣和动机更为重要。然而，由于本科生可能不太了解自己的兴趣（我也是如此），帮助他们发现自己的兴趣也是独立研究的目的之一。无论您处于什么水平，教育者的职责是给您提供可接触的任务。我们的实验室提供有趣的主题和展示自己想法的环境，以及教授和前辈的指导。希望您能够充分利用这些资源，尽最大努力学习，并了解作为研究人员需要具备哪些技能。</p>
 </div>
+
 
 
 <div class="mt-4 mb-4 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-en">
 <div style="position: absolute; top: 1.5em; right: 1.5em;">
-<a href="javascript:switchTo('ko')">🇰🇷</a>&nbsp;
+<a href="javascript:switchTo('zh')">🇰🇷</a>&nbsp;
 <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
 </div>
 <h5 class="font-weight-bold mt-2">Graduate-level (Prospective or Current)</h5>
@@ -106,17 +90,17 @@ in-depth interactions with KAIST students.</p>
         return (window.navigator.userLanguage || window.navigator.language || '').startsWith('ko');
     }
     function switchTo(lang) {
-        if (lang === 'ko') {
-            window.document.getElementById('prof-word-ko').style.display = 'block';
+        if (lang === 'zh') {
+            window.document.getElementById('prof-word-zh').style.display = 'block';
             window.document.getElementById('prof-word-en').style.display = 'none';
         } else {
-            window.document.getElementById('prof-word-en').style.display = 'block';
+            window.document.getElementById('prof-word-zh').style.display = 'block';
             window.document.getElementById('prof-word-ko').style.display = 'none';
         }
     }
 
     if (isKorean()) {
-        switchTo('ko');
+        switchTo('zh');
     } else {
         switchTo('en');
     }
