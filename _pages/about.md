@@ -40,7 +40,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <div class="mt-0 mb-0 pt-0 pl-0 pr-0 pb-0" style="background:var(--global-bg-color); position: relative;" id="prof-word-en">
-    <div style="position: absolute; top: 1.5em; right: 1.5em;">
+    <div style="position: absolute; top: 0.2em; right: 1.5em;">
         <a href="javascript:switchTo('zh')">🇨🇳</a>&nbsp;
         <a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
     </div>
@@ -51,7 +51,7 @@ social: false  # includes social icons at the bottom of the page
 
         <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
 
-        <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Join Us](/join-us) page.</p>
+            <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on the <a href="/join-us">Join Us</a> page.</p>
     </div>
 </div>
 
