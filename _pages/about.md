@@ -35,7 +35,7 @@ social: false  # includes social icons at the bottom of the page
     
         <p>INA研究组提供一个自我激励的氛围，通过灵活的工作时间实现高效的研究。在博士项目中，我们的研究组提供必要的培训，使学生成为独立研究者，并成为特定领域的专家。我们还与国外研究人员进行积极交流，实验室的校友在毕业后拥有强大的网络，并在进入行业、研究实验室或学术界时获得许多机会。</p>
     
-        <p>开放职位： 我们正在寻找研究生和本科研究实习生加入INA实验室（常年招聘）。我们有几个有趣的研究主题，如大规模深度学习、神经体积流和回顾性视频分析。您可以在[Join Us](/join-us)页面找到更多信息。</p>
+        <p>招聘：我们正在寻找研究生和本科研究实习生加入INA实验室（常年招聘）。我们有几个有趣的研究主题，如大规模深度学习、神经体积流和回顾性视频分析。您可以在<a href="/join-us">Join Us</a>页面找到更多信息。</p>
     </div>
 </div>
 
@@ -51,13 +51,13 @@ social: false  # includes social icons at the bottom of the page
 
         <p> INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).</p>
 
-            <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on the <a href="/join-us">Join Us</a> page.</p>
+        <p> Open Position: We are looking for graduate students and undergraduate research interns to join the INA lab. We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on the <a href="/join-us">Join Us</a> page.</p>
     </div>
 </div>
 
 <script>
     function isChinese() {
-        return (window.navigator.userLanguage || window.navigator.language || '').startsWith('zh');
+        return (window.navigator.userLanguage || window.navigator.language || '').startsWith('us');
     }
     function switchTo(lang) {
         if (lang === 'zh') {
